@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Maciej</h1>
+<h1 align="center">Hello, I'm Boniec</h1>
 
 <h3 align="center">Minecraft Developer with high experience</h3>
 
